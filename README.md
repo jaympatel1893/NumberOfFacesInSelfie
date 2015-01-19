@@ -52,8 +52,9 @@ First Data Science Project.
 
 Project Team:
 
-Jay Patel
-Sanjana Agarwal
+1. Jay Patel    
+
+2. Sanjana Agarwal    
 
 Thank you, hope you liked the survey!
 
