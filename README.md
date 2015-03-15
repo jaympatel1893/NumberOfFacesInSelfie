@@ -47,7 +47,6 @@ Some observations:
 
 
 
-
 First Data Science Project.
 
 Project Team:
